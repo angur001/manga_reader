@@ -6,7 +6,7 @@ python ./manga.py {manga-name} {chapter}
 ``` 
 if manga name has space write it with - instead for exemple to search for jujustu kaisen last chapter you would do \\
 ```console
-python ./manga jujustsu-kaisen last
+python ./manga.py jujustsu-kaisen last
 ```
 
 requirements
@@ -19,5 +19,6 @@ For optimum usage it is recommended to add the path of the script to the PATH en
 would be able to execute the scipt from anywhere.
 
 It is possible to generate an executable from the script and use it instead:
-first ```console python -m pip install py2exe``` and execute the execute the scrit setup it should generate a dist folder with an executable that you can place in PATH
+first ```console 
+python -m pip install py2exe``` and execute the execute the scrit setup it should generate a dist folder with an executable that you can place in PATH
 and execute it from anywhere in the command line.
