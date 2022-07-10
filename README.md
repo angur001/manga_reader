@@ -1,3 +1,6 @@
 # How To Use
-console ``` mkdir manga_reader ``` 
+``` 
+mkdir manga_reader
+git clone 
+``` 
 
