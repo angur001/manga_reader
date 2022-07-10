@@ -1,2 +1,3 @@
-# manga_reader
-# How To Use 
+# How To Use
+console ``` mkdir manga_reader
+
