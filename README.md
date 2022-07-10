@@ -4,6 +4,7 @@ mkdir manga_reader
 git clone https://github.com/angur001/manga_reader.git
 python ./manga.py {manga-name} {chapter}
 ``` 
+chapter should be an interger between first chapter and the last available chapter or you can write first ot last to access the respective chapters
 if manga name has spaces use - instead for exemple to search for jujustu kaisen last chapter you would do :
 ```console
 python ./manga.py jujustsu-kaisen last
