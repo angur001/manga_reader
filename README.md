@@ -4,7 +4,7 @@ mkdir manga_reader
 git clone https://github.com/angur001/manga_reader.git
 python ./manga.py {manga-name} {chapter}
 ``` 
-if manga name has space write it with - instead for exemple to search for jujustu kaisen last chapter you would do
+if manga name has space write it with - instead for exemple to search for jujustu kaisen last chapter you would do \\
 ``` python ./manga jujustsu-kaisen last ```
 
 requirements
