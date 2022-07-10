@@ -1,5 +1,5 @@
 # How To Use
-``` 
+```console
 mkdir manga_reader
 git clone https://github.com/angur001/manga_reader.git
 python ./manga.py {manga-name} {chapter}
