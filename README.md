@@ -1,3 +1,5 @@
+### READ MANGA LIKE A SMARTASS 
+
 # How To Use
 ```console
 mkdir manga_reader
