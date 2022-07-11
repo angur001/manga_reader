@@ -15,6 +15,7 @@ requirements :
 python -m pip install requests
 python -m pip install bs4
 python -m pip install webbrowser
+python -m pip install pandas
 ```
 
 For optimum usage it is recommended to add the path of the script to the PATH env variable and so you
